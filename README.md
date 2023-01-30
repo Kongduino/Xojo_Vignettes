@@ -24,3 +24,4 @@ The code makes use of a few nice facilities provided by Xojo:
 
 All in all, this is a very short demonstration – showcasing how Xojo can solve problems quickly and cleanly.
 
+![demo](assets/demo.gif)
